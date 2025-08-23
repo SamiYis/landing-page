@@ -75,7 +75,7 @@
     });
 
 
-    // Team carousel
+    // our clients carousel
     $(".team-carousel").owlCarousel({
         autoplay: true,
         smartSpeed: 1500,
